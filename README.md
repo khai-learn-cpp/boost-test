@@ -9,8 +9,8 @@
  * `/main.cpp`: Write anything you want here
 
  * `/personal/environment.sh`: Set up environment variables as following
-  - CXX: C++ Compiler, usually g++
-  - EXEC_ARGV: Arguments will be passed to the executable output, can be blank
+  - `CXX`: C++ Compiler, usually g++
+  - `EXEC_ARGV`: Arguments will be passed to the executable output, can be blank
 
  * `/personal/stdin.sh`: Write data to your program's stdin (you can leave it empty)
 
