@@ -30,7 +30,7 @@
 
 ### Writing
 
-Write your code into `/main.cpp`
+Write your code into `/personal/main.cpp`
 
 ### Building
 
