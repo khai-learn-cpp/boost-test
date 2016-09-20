@@ -6,7 +6,7 @@
 
  * `/external/boost`: The Boost library, which contains another directory named `boost`
 
- * `/main.cpp`: Write anything you want here
+ * `/personal/main.cpp`: Write anything you want here
 
  * `/personal/environment.sh`: Set up environment variables as following
   - `CXX`: C++ Compiler, usually g++
