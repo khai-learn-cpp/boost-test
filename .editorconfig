@@ -17,9 +17,7 @@ indent_style = tab
 indent_size = 4
 
 # EOL
-[*.{c,h}{,pp,xx},cc,hh]
-end_of_line = crlf
-[*.{sh,zsh,1,2,3}]
+[*.{sh,zsh,1,2,3},{c,h}{,pp,xx},cc,hh]
 end_of_line = lf
 
 # Trailing White Space
