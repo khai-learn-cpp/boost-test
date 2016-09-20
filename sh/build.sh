@@ -1,5 +1,5 @@
 source $(pwd)/personal/environment.sh
-g++ -std=c++14 -Wall -Wextra -I$(pwd)/external/boost -o main.exe main.cpp && (
+$CXX -std=c++14 -Wall -Wextra -I$(pwd)/external/boost -o main.exe main.cpp && (
 	echo 'done.'
 	exit 0
 ) || (
