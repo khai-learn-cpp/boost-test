@@ -1,0 +1,13 @@
+
+*.log
+quick-test
+test
+tmp
+temp
+*.tmp
+*.temp
+*.sh
+.git*
+.travis.yml
+appveyor.yml
+main.cpp

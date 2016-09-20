@@ -1,0 +1,22 @@
+{
+  "name": "boost-test",
+  "version": "0.0.0",
+  "description": "C++ Template for Quick Testing Boost library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build && npm start",
+    "build": "bash -c './sh/build.sh'",
+    "start": "bash -c './sh/start.sh'",
+    "clean": "bash -c './sh/clean.sh'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khai-learn-cpp/boost-test.git"
+  },
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/khai-learn-cpp/boost-test/issues"
+  },
+  "homepage": "https://github.com/khai-learn-cpp/boost-test#readme"
+}

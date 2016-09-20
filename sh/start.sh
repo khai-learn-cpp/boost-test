@@ -1,0 +1,3 @@
+source $(pwd)/personal/environment.sh
+echo Running...
+$(pwd)/personal/stdin.sh | $(pwd)/main.exe $EXEC_ARGV
